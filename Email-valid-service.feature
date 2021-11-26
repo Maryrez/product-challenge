@@ -6,7 +6,7 @@ Feature: [Product Challenge]
 
     This service should be used to validate the E-mail you entered on the registration page. To validate the e-mail inserted in the registration page follow these rules
 
-    Rule: cannot be an existing value.
+    Rule: Cannot be an existing value.
 
         Example: E-mail isn’t in the database
             Given the value received as an email
