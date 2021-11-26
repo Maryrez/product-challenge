@@ -4,7 +4,7 @@ Feature: [Product Challenge]
     Scenario: Sign In
 
 
-        To sign in there should be fields to enter the information I have registered.
+    To sign in there should be fields to enter the information I have registered.
 
         Given I insert informations
         And I have Email
