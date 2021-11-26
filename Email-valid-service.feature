@@ -15,6 +15,8 @@ Feature: [Product Challenge]
             Then will proceed with account creation.
 
 
+    Rule: Existing value in the database
+
         Example: E-mail already exist in the database
             Given the value received as an email
             When I insert an e-mail to create account,
